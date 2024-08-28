@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9dd6814bd91c8025e9450e1877835279",
+    "revision": "c086ae32297bbdaab60677861da039d6",
     "url": "/Genchron/index.html"
   },
   {
-    "revision": "81fb22fc1fee8138c33d",
-    "url": "/Genchron/static/css/main.a901676e.chunk.css"
+    "revision": "bba9a5a273cdaf9a8bf5",
+    "url": "/Genchron/static/css/main.f29d83d7.chunk.css"
   },
   {
     "revision": "206ace865bc0bc0d27ea",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Genchron/static/js/3.75ea4ae7.chunk.js"
   },
   {
-    "revision": "81fb22fc1fee8138c33d",
+    "revision": "bba9a5a273cdaf9a8bf5",
     "url": "/Genchron/static/js/main.ca67e364.chunk.js"
   },
   {
