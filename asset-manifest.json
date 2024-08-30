@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Genchron/static/css/main.8b83e440.chunk.css",
-    "main.js": "/Genchron/static/js/main.4714202f.chunk.js",
-    "main.js.map": "/Genchron/static/js/main.4714202f.chunk.js.map",
-    "runtime-main.js": "/Genchron/static/js/runtime-main.2d5be030.js",
-    "runtime-main.js.map": "/Genchron/static/js/runtime-main.2d5be030.js.map",
-    "static/js/2.095a4b99.chunk.js": "/Genchron/static/js/2.095a4b99.chunk.js",
-    "static/js/2.095a4b99.chunk.js.map": "/Genchron/static/js/2.095a4b99.chunk.js.map",
-    "static/js/3.daa2935b.chunk.js": "/Genchron/static/js/3.daa2935b.chunk.js",
-    "static/js/3.daa2935b.chunk.js.map": "/Genchron/static/js/3.daa2935b.chunk.js.map",
+    "main.js": "/Genchron/static/js/main.6a0e7ceb.chunk.js",
+    "main.js.map": "/Genchron/static/js/main.6a0e7ceb.chunk.js.map",
+    "runtime-main.js": "/Genchron/static/js/runtime-main.3f5947a0.js",
+    "runtime-main.js.map": "/Genchron/static/js/runtime-main.3f5947a0.js.map",
+    "static/js/2.ad654e93.chunk.js": "/Genchron/static/js/2.ad654e93.chunk.js",
+    "static/js/2.ad654e93.chunk.js.map": "/Genchron/static/js/2.ad654e93.chunk.js.map",
+    "static/js/3.d3bd1805.chunk.js": "/Genchron/static/js/3.d3bd1805.chunk.js",
+    "static/js/3.d3bd1805.chunk.js.map": "/Genchron/static/js/3.d3bd1805.chunk.js.map",
     "index.html": "/Genchron/index.html",
-    "precache-manifest.4e1f7b993e57fffd4182017cb56507ea.js": "/Genchron/precache-manifest.4e1f7b993e57fffd4182017cb56507ea.js",
+    "precache-manifest.e20c82b65d28bdb116b23edc38c689f9.js": "/Genchron/precache-manifest.e20c82b65d28bdb116b23edc38c689f9.js",
     "service-worker.js": "/Genchron/service-worker.js",
     "static/css/main.8b83e440.chunk.css.map": "/Genchron/static/css/main.8b83e440.chunk.css.map",
-    "static/js/2.095a4b99.chunk.js.LICENSE.txt": "/Genchron/static/js/2.095a4b99.chunk.js.LICENSE.txt",
+    "static/js/2.ad654e93.chunk.js.LICENSE.txt": "/Genchron/static/js/2.ad654e93.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Genchron/static/media/Olicana-Fine.7ccfbf44.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d5be030.js",
-    "static/js/2.095a4b99.chunk.js",
+    "static/js/runtime-main.3f5947a0.js",
+    "static/js/2.ad654e93.chunk.js",
     "static/css/main.8b83e440.chunk.css",
-    "static/js/main.4714202f.chunk.js"
+    "static/js/main.6a0e7ceb.chunk.js"
   ]
 }
