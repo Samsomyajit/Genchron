@@ -12,6 +12,7 @@
 <br/>
 
 > *An open-source tool for exploring gendered social networks in late antique and early medieval historical chronicles.*
+> This work/research was carried out in collaboration with the Research Ireland Consolidator Laureate 'Time for Women? Gender, Chronology and Historiography before AD 900' GENCHRON (PI: Máirín MacCarron)
 
 </div>
 
